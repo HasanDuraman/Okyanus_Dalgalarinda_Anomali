@@ -18,4 +18,4 @@ Proje, ham verinin temizlenmesinden (preprocessing) başlayıp, spektral analiz 
 Bu proje **Python 3.13** ve üzeri sürümlerle uyumlu olacak şekilde geliştirilmiştir.
 
 ### Projeyi Klonlayın
-git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+git clone [https://github.com/HasanDuraman/Okyanus_Dalgalarinda_Anomali.git)]
