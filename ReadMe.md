@@ -19,3 +19,6 @@ Bu proje **Python 3.13** ve üzeri sürümlerle uyumlu olacak şekilde geliştir
 
 ### Projeyi Klonlayın
 git clone [https://github.com/HasanDuraman/Okyanus_Dalgalarinda_Anomali.git)]
+
+## Projede şamandıra merkezinde verilerin çekilmesinde ve grafiklerin oluşturulmasında yapay zekadan destek aldım.
+ 
